@@ -1,0 +1,41 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1521107548917,9227,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,9227,0,8601
+1521107558147,3097,Overview,200,OK,Thread Group 1-1,text,true,,12465,127,1,1,3097,0,2117
+1521107561245,3392,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53770,129,1,1,2801,0,1694
+1521107564637,162,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,32,0,4
+1521107564800,1090,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1090,0,723
+1521107565891,365,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,365,0,0
+1521107566256,1086,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,368,0,0
+1521107567342,329,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,22,0,3
+1521107567671,1089,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1089,0,727
+1521107568761,368,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,367,0,0
+1521107569130,1082,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,365,0,0
+1521107570212,176,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,24,0,4
+1521107570389,1086,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1086,0,719
+1521107571476,365,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,365,0,0
+1521107571841,1097,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,368,0,0
+1521107572938,409,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,49,0,2
+1521107573347,1095,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1094,0,731
+1521107574442,367,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,367,0,0
+1521107574809,1083,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,366,0,0
+1521107575892,315,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,22,0,4
+1521107576207,1089,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1089,0,725
+1521107577297,370,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,370,0,0
+1521107577667,1084,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,366,0,0
+1521107578752,183,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,12,0,5
+1521107578936,1452,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1452,0,729
+1521107580389,722,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,722,0,0
+1521107581112,1808,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53770,129,1,1,1445,0,722
+1521107582920,93,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,16,0,4
+1521107583013,364,HomePage,200,OK,Thread Group 1-1,text,true,,12464,117,1,1,364,0,0
+1521107583377,1094,Overview,200,OK,Thread Group 1-1,text,true,,12465,127,1,1,1094,0,725
+1521107584472,1097,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,725,0,0
+1521107585570,82,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,20,0,4
+1521107585652,1083,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1083,0,721
+1521107586736,366,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,366,0,0
+1521107587102,1081,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,364,0,0
+1521107588183,70,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,44,0,3
+1521107588253,1086,HomePage,200,OK,Thread Group 1-1,text,true,,12465,117,1,1,1086,0,722
+1521107589338,365,Overview,200,OK,Thread Group 1-1,text,true,,12464,127,1,1,365,0,0
+1521107589704,1083,ReleaseNotes,200,OK,Thread Group 1-1,text,true,,53769,129,1,1,365,0,0
+1521107590787,455,Dummy Sampler,200,OK,Thread Group 1-1,text,true,,114,0,1,1,24,0,2
